@@ -6,7 +6,7 @@ function EmailForm() {
 
   const sendEmailAndSMS = async () => {
     try {
-      const response = await fetch('http://localhost:5200/send', { method: 'POST' });
+      const response = await fetch('http://13.232.90.49:5200/send', { method: 'POST' });
       const data = await response.json();
       setMessage(data.message);
       alert(data.message);
