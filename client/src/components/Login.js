@@ -11,7 +11,7 @@ const Login = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    axios.post('http://localhost:8001/login', { email, password })
+    axios.post('http://13.232.90.49:8001/login', { email, password })
       .then(result => {
         console.log(result);
         if (result.data === "Success") {
