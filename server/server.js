@@ -143,7 +143,7 @@ app.post('/send', async (req, res) => {
 });
 
 // Load recipients from CSV file
-fs.createReadStream('C:/Users/chowk/OneDrive/Desktop/MinorprojectVsem/server/data/rec.csv')
+fs.createReadStream('./data/rec.csv')
   .pipe(csv())
   .on('data', (row) => {
     emailList.push(row.email);
