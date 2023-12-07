@@ -12,7 +12,7 @@ const Register = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    axios.post('http://localhost:8001/register', { name, email, password })
+    axios.post('http://http://43.204.38.21:8001/register', { name, email, password })
       .then(result => {
         console.log(result);
         if (result.data === "Already registered") {
