@@ -291,45 +291,45 @@ function GalleryDivs() {
 const slideshowData = [
   {
     id: 1,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/company-logos/wipro.jpg',
+    text: 'https://i.imgur.com/Oiw5uRO.jpg',
   },
   {
     id: 2,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/company-logos/ascenture.jpg',
+    text: 'https://i.imgur.com/f34yGnl.jpg',
   },
   {
     id: 3,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/company-logos/capgemini.jpg',
+    text: 'https://i.imgur.com/oeZjZJD.jpg',
   },
   {
     id: 4,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/company-logos/deloitte.jpg',
+    text: 'https://i.imgur.com/l3lHtht.jpg',
   },
   {
     id: 5,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/company-logos/amazon.jpg',
+    text: 'https://i.imgur.com/uD6mguf.jpg',
   },
   {
     id: 5,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v4/assets/images/company-logos/infosys.png',
+    text: 'https://i.imgur.com/8mfHIod.png',
   },
   {
     id: 5,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v4/assets/images/company-logos/medplus.png',
+    text: 'https://i.imgur.com/pTPjSIM.png',
   },{
     id: 5,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v4/assets/images/company-logos/mindtree.jpg',
+    text: 'https://i.imgur.com/jjVoERR.jpg',
   },{
     id: 5,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v4/assets/images/company-logos/tcs1.png',
+    text: 'https://i.imgur.com/d0KBohC.png',
   },
   {
     id: 5,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v4/assets/images/company-logos/tech-mahindra.png',
+    text: 'https://i.imgur.com/47u9rnl.png',
   },
   {
     id: 5,
-    text: 'http://45.114.246.81/~adroitprojects/projects/cbit/v4/assets/images/company-logos/byjus.jpg',
+    text: 'https://i.imgur.com/bH2uK3e.jpg',
   },
   
 ];
@@ -441,7 +441,7 @@ function CbitNumbers() {
       <h1 style={{ textAlign: 'center', color: 'maroon', fontWeight: '600', fontSize: '29px' }}>CBIT BY NUMBERS</h1>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
         <img
-          src="http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/cbit-numbers-logo.png"
+          src="https://i.imgur.com/7AVVFoa.png"
           style={{ height: '348px', width: '350px', border: '2px solid green' }}
           alt="CBIT Numbers Logo"
         />
@@ -754,16 +754,16 @@ function Alumnnicarousel(props)
     var items = [
         {   
             year:'1991',
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/alumni/alumniimg652cc73e054ad.jpg",
+            name: "https://i.imgur.com/GSiYp9z.jpg",
             title1:"Mr. Komatireddy Venkat Reddy",
             year1:'2005',
             title:'Mr. K.C Navneeth Kumar',
             year2:'2007',
-            name2: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/alumni/alumniimg6527cdee4c556.jpg",
+            name2: "https://i.imgur.com/K9Bnp68.jpg",
             title2:"Mr. E Sai Charan Tejaswi",
-            name1:'http://45.114.246.81/~adroitprojects/projects/cbit/v3/alumni/alumniimg652cc77a5ce66.jpg',
+            name1:'https://i.imgur.com/HHVIbRy.jpg',
             year3:'1992',
-            name3:"http://45.114.246.81/~adroitprojects/projects/cbit/v4/alumni/alumniimg654cb31c84973.jpg",
+            name3:"https://i.imgur.com/cBWhcSV.jpg",
             title3:"Mr. Ravinder Gupta",
             
         },
@@ -771,17 +771,17 @@ function Alumnnicarousel(props)
         
        
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/alumni/alumniimg652cc7bc63427.jpg",
+            name: "https://i.imgur.com/8XXBbHo.jpg",
             title:'Mr. Shekar Kamala',
             year:'2005',
-            name1:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/alumni/alumniimg652cc7a6d17a6.jpg",
+            name1:"https://i.imgur.com/VIac27f.jpg",
             title1:"Mr. Ravi kumar",
             year1:'2010',
-            name2: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/alumni/alumniimg652cc7d846a30.jpg",
+            name2: "https://i.imgur.com/1LMx9pF.jpg",
             year2:'1983',
             title2:'Mr. C Shekar Reddy',
             year3:'1984',
-            name3:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/alumni/alumniimg652ccef58eb0b.jpg",
+            name3:"https://i.imgur.com/u4Vnd1d.jpg",
             title3:"Mr. Y Satyanarayana",
         },
        
