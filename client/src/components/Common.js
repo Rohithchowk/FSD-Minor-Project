@@ -33,7 +33,7 @@ function Example(props)
            
         },
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/banner/bnrimg65252ada98624.png",
+            name: "https://i.imgur.com/cKjSlca.png",
             
             
         }
@@ -396,22 +396,22 @@ const Common = () => {
         </div>
         <div style={div2Styles}>
           <marquee style={marqueeStyles}> 
-         <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/icon/new-anim.gif' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
+         <img src='https://i.imgur.com/ZhSihva.gifv' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
             <a href="https://www.cbit.ac.in/wp-content/uploads/2021/04/Smart-India-Hackathon-SIH-2023-Circular.pdf" style={{ textDecoration: 'none', color: 'maroon' }}>
               Smart India Hackathon SIH 2023 Circular
             </a> |
             
-            <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/icon/new-anim.gif' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
+            <img src='https://i.imgur.com/ZhSihva.gifv' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
             
             <a href="https://www.cbit.ac.in/wp-content/uploads/2022/03/Library-2023-Circular.pdf" style={{ textDecoration: 'none', color: 'maroon' ,marginRight:'10px'}}>
               Library 2023 Circular
             </a>|
-            <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/icon/new-anim.gif' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
+            <img src='https://i.imgur.com/ZhSihva.gifv' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
             
             <a href="https://www.cbit.ac.in/wp-content/uploads/2021/04/Smart-India-Hackathon-SIH-2023-Circular.pdf" style={{ textDecoration: 'none', color: 'maroon',marginLeft:'10px' }}>
               Webinar on cloud computing
             </a>|
-            <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/icon/new-anim.gif' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
+            <img src='https://i.imgur.com/ZhSihva.gifv' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
             
             
             <a href="https://www.cbit.ac.in/wp-content/uploads/2022/03/Library-2023-Circular.pdf" style={{ textDecoration: 'none', color: 'maroon' }}>
@@ -451,14 +451,14 @@ const Common = () => {
       )}
     <div style={{display:'flex',marginTop:'10px'}}>
       
-      <NavLink to ='/'><img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/cbit-logo-new.png'  style={{height:'100px',width:'550px',marginTop:'5px',marginRight:'150px'}}/></NavLink>
+      <NavLink to ='/'><img src='https://i.imgur.com/IFiqJJa.png'  style={{height:'100px',width:'550px',marginTop:'5px',marginRight:'150px'}}/></NavLink>
       <div >
      <NavBar />
      <div style={{display:'flex'}}>
      <div>
-     <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/logos/nba.jpg' style={{height:'60px',width:'60px',marginTop:'10px',marginLeft:'80px'}}/>
-     <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/logos/nirf.jpg' style={{height:'60px',width:'60px'}}/>
-     <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/logos/a-naac.jpg ' style={{height:'60px',width:'60px'}}/>
+     <img src='https://i.imgur.com/syYIR1v.jpg' style={{height:'60px',width:'60px',marginTop:'10px',marginLeft:'80px'}}/>
+     <img src='https://i.imgur.com/9imRfWS.jpg' style={{height:'60px',width:'60px'}}/>
+     <img src='https://i.imgur.com/rXYYQaC.jpg' style={{height:'60px',width:'60px'}}/>
      </div>
      <div>
      <SearchBar  />
