@@ -1007,26 +1007,26 @@ function Exa(props)
 {
     var items = [
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59e062f665.jpg",
-            name1:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59d4331145.jpg",
+            name: "https://i.imgur.com/1yKQlhj.jpg",
+            name1:"https://i.imgur.com/x01dFrj.jpg",
             title1:"MATHEMATICS",
             title:'CHEMISTRY',
-            name2: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59d7e22703.jpg",
+            name2: "https://i.imgur.com/sPPiLoC.jpg",
             title2:'ENGLISH',
-            name3:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59dd1d91fc.jpg",
+            name3:"https://i.imgur.com/tjC5tnm.jpg",
             title3:"COMPUTER SCIENCE",
             
             
         },
       
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59d64e0abb.jpg",
+            name: "https://i.imgur.com/GxfZ951.jpg",
             title:'INFORMATION TECHNOLOGY',
-            name1:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59d9723bdd.jpg",
+            name1:"https://i.imgur.com/0xPDhS9.jpg",
             title1:"EEE",
-            name2: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59db84c833.jpg",
+            name2: "https://i.imgur.com/kmPN4j6.jpg",
             title2:'ECE',
-            name3:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59d0063a24.jpg",
+            name3:"https://i.imgur.com/8D2P8JX.jpg",
             title3:"MECHANICAL",
             
             // ELECTRICAL AND COMMMUNICATION ENGINEERING
@@ -1035,36 +1035,36 @@ function Exa(props)
         },
        
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59ed329d18.jpg",
+            name: "https://i.imgur.com/sNQQnN4.jpg",
             title:'AI&ML',
-            name1:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59de86117c.jpg",
+            name1:"https://i.imgur.com/s6JWEoj.jpg",
             title1:"CIVIL ENGINEERING",
-            name2: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59cc1da6b7.jpg",
+            name2: "https://i.imgur.com/vHSBurC.jpg",
             
             title2:'PHYSICS',
-            name3:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59e7e15bb2.jpg",
+            name3:"https://i.imgur.com/w6jWQi3.jpg",
             title3:"AI&DS",
         },
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59cddd4b52.jpg",
+            name: "https://i.imgur.com/4Ts9H1f.jpg",
             
             title:'PHYSICAL EDUCATION',
-            name1:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59e60b0443.jpg",
+            name1:"https://i.imgur.com/TjQrllr.jpg",
             title1:"BIO TECHNOLOGY",
-            name2: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59d4331145.jpg",
+            name2: "https://i.imgur.com/x01dFrj.jpg",
             
             title2:'MASTER OF COMPUTER APPL.',
-            name3:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f2d4b9c0830.jpg",
+            name3:"https://i.imgur.com/gN6UI27.jpg",
             title3:"INFORMATION TECHNOLOGY",
         },
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59dd1d91fc.jpg",
+            name: "https://i.imgur.com/tjC5tnm.jpg",
             title:'COMPUTER SCIENCE',
-            name1:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59e9854db5.jpg",
+            name1:"https://i.imgur.com/l43gdIk.jpg",
             title1:"CHEMICAL ENGINEERING",
-            name2: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59c8c190f9.jpg",
+            name2: "https://i.imgur.com/Rwrnswl.jpg",
             title2:'MBA',
-            name3:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59cddd4b52.jpg",
+            name3:"https://i.imgur.com/4Ts9H1f.jpg",
             title3:"FIT",
             
         }
@@ -1078,7 +1078,7 @@ function Exa(props)
 
     // Example:
     {
-      name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/caticn/simg64f59e062f665.jpg",
+      name: "",
       title: "MATHEMATICS",
     },
     {
