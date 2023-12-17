@@ -697,8 +697,8 @@ function Ex(props)
 {
     var items = [
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/achievement/achmntimg64cb9161bb704.png",
-            name1:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/achievement/achmntimg64940230b414a.jpg",
+            name: "https://i.imgur.com/Cu8maHU.png",
+            name1:"https://i.imgur.com/YuQezRk.jpg",
             title1:"  Chaitanya Bharathi Institute of Technology, established in the Year 1979, esteemed as the premier en...",
 
             
@@ -709,9 +709,9 @@ function Ex(props)
         },
       
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/achievement/achmntimg64cb908a56ec7.jpg",
+            name: "https://i.imgur.com/qMOSGQK.jpg",
             title:' Congratulations Asritha, Vasuki, Sahithi &amp; Gayatri  who interned at Salesforce with Rs. 1.25 LPM w...',
-            name1:"http://45.114.246.81/~adroitprojects/projects/cbit/v3/achievement/achmntimg64941e0c235a1.jpg",
+            name1:"https://i.imgur.com/SaItP64.jpg",
             title1:"Congratulations CBIT Students secure third place in Smart Manufacturing and  Artificial Intelligence(SMAI) Hackathon.",
            
             
