@@ -339,22 +339,22 @@ const Home = () => {
         </div>
         <div style={div2Styles}>
           <marquee style={marqueeStyles}> 
-         <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/icon/new-anim.gif' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
+         <img src='https://i.imgur.com/ZhSihva.gifv' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
             <a href="https://www.cbit.ac.in/wp-content/uploads/2021/04/Smart-India-Hackathon-SIH-2023-Circular.pdf" style={{ textDecoration: 'none', color: 'maroon' }}>
               Smart India Hackathon SIH 2023 Circular
             </a> |
             
-            <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/icon/new-anim.gif' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
+            <img src='https://i.imgur.com/ZhSihva.gifv' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
             
             <a href="https://www.cbit.ac.in/wp-content/uploads/2022/03/Library-2023-Circular.pdf" style={{ textDecoration: 'none', color: 'maroon' ,marginRight:'10px'}}>
               Library 2023 Circular
             </a>|
-            <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/icon/new-anim.gif' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
+            <img src='https://i.imgur.com/ZhSihva.gifv' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
             
             <a href="https://www.cbit.ac.in/wp-content/uploads/2021/04/Smart-India-Hackathon-SIH-2023-Circular.pdf" style={{ textDecoration: 'none', color: 'maroon',marginLeft:'10px' }}>
               Webinar on cloud computing
             </a>|
-            <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/icon/new-anim.gif' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
+            <img src='https://i.imgur.com/ZhSihva.gifv' style={{height:'20px',width:'20px',marginRight:'10px',marginLeft:'10px'}}/>
             
             
             <a href="https://www.cbit.ac.in/wp-content/uploads/2022/03/Library-2023-Circular.pdf" style={{ textDecoration: 'none', color: 'maroon' }}>
