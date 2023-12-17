@@ -399,9 +399,9 @@ const Home = () => {
      <NavBar />
      <div style={{display:'flex'}}>
      <div>
-     <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/logos/nba.jpg' style={{height:'60px',width:'60px',marginTop:'10px',marginLeft:'80px'}}/>
-     <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/logos/nirf.jpg' style={{height:'60px',width:'60px'}}/>
-     <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/logos/a-naac.jpg ' style={{height:'60px',width:'60px'}}/>
+     <img src='https://i.imgur.com/syYIR1v.jpg' style={{height:'60px',width:'60px',marginTop:'10px',marginLeft:'80px'}}/>
+     <img src='https://i.imgur.com/9imRfWS.jpg' style={{height:'60px',width:'60px'}}/>
+     <img src='https://i.imgur.com/rXYYQaC.jpg' style={{height:'60px',width:'60px'}}/>
      </div>
      <div>
      <SearchBar  />
