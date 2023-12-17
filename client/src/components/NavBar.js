@@ -653,7 +653,7 @@ function Example(props)
            
         },
         {
-            name: "http://45.114.246.81/~adroitprojects/projects/cbit/v3/banner/bnrimg65252ada98624.png",
+            name: "https://i.imgur.com/cKjSlca.png",
             
             
         }
