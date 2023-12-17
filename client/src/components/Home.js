@@ -394,7 +394,7 @@ const Home = () => {
       )}
     <div style={{display:'flex',marginTop:'10px'}}>
       
-      <img src='http://45.114.246.81/~adroitprojects/projects/cbit/v3/assets/images/cbit-logo-new.png'  style={{height:'100px',width:'550px',marginTop:'5px',marginRight:'150px'}}/>
+      <img src='https://i.imgur.com/IFiqJJa.png'  style={{height:'100px',width:'550px',marginTop:'5px',marginRight:'150px'}}/>
       <div >
      <NavBar />
      <div style={{display:'flex'}}>
